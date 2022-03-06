@@ -19,3 +19,5 @@ This works in 2 steps
 
 *Thank you all*
 Made with pure passion, Muneeb Mohd.
+
+//This is the first version and will be updated as time passes to support different sub-reddits as well
